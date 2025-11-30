@@ -18,3 +18,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
 </a>
+<br><br>
+I got public 3 Repositories<br>
+favorite game: <a href="https://store.steampowered.com/app/1592190/BONELAB/"><br>Bonelab<br><img src="#?raw=true" width="20%"></a></p>
