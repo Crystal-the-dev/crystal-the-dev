@@ -20,4 +20,4 @@
 </a>
 <br><br>
 I got public 3 Repositories<br>
-favorite game: <a href="https://store.steampowered.com/app/1592190/BONELAB/"><br>Bonelab<br><img src="https://github.com/Crystal-the-dev/crystal-the-dev/blob/main/bigbonelab.png?raw=true" width="100%"></a></p>
+favorite game: <a href="https://store.steampowered.com/app/1592190/BONELAB/"><br>Bonelab<br><img src="https://github.com/Crystal-the-dev/crystal-the-dev/blob/main/bigbonelab.png?raw=true" width="80%"></a></p>
