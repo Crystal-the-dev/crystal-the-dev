@@ -1,4 +1,4 @@
-[![NoSkid Verification](https://noskid.today/badge/100x30/?repo=username/repository)](https://noskid.today)
+[![NoSkid Verification](https://noskid.today/badge/100x30/?repo=Crystal-the-dev/crystal-the-dev)](https://noskid.today)
 <h1 align="center"><img src="#?raw=true" width="40%"><br>Hello!</h1>
 <p align="center">I am crystal also known as husk</i><br><br>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
