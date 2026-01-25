@@ -3,6 +3,7 @@
 </p>
 
 <hr>
+## PC SPECS
 
 ![CPU](https://img.shields.io/badge/CPU-AMD64%20Family%2025%20Model%2033%20Stepping%202-36BCF7?style=for-the-badge)
 ![GPU](https://img.shields.io/badge/GPU-RTX%204060-36BCF7?style=for-the-badge)
