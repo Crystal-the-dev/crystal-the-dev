@@ -4,7 +4,7 @@
 
 <hr>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=These are my current github page visits (added this on the 25/01/2026 and its been counting since 25/01/2026)" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=These+are+my+current+github+page+visits;Added+this+on+the+25/01/2026;It's+been+counting+since+25/01/2026" alt="Typing SVG">
 </p>
 <p align="center">
   <img src="https://count.getloli.com/@Crystal-the-dev?name=Crystal-the-dev&theme=sketch-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views">
