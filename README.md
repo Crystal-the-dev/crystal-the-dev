@@ -1,5 +1,12 @@
-<h1 align="center"><img src="#?raw=true" width="40%"><br>Hello!</h1>
-<p align="center">I am crystal also known as husk</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+I'm+Crystal+%F0%9F%91%8B;Also+known+as+husk;Welcome+to+my+profile!" alt="Typing SVG">
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://count.getloli.com/@Crystal-the-dev?name=Crystal-the-dev&theme=sketch-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views">
+</p>
 
 <p align="center">
   <img src="./metrics.svg" alt="Metrics">
@@ -7,6 +14,7 @@
 
 <hr>
 
+<h3 align="center">✨The coding languages I can code in✨</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
@@ -26,4 +34,19 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
   </a>
+</p>
+
+<hr>
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Crystal-the-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystal-the-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</p>
+
+<img src="https://raw.githubusercontent.com/Crystal-the-dev/Crystal-the-dev/output/github-snake-dark.svg" alt="Snake animation">
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Crystal-the-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies">
 </p>
