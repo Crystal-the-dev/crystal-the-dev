@@ -48,4 +48,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystal-the-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </p>
 
-<img src="https://raw.githubusercontent.com/Crystal-the-dev/Crystal-the-dev/output/github-snake-dark.svg" alt="Snake animation">
+<img src="https://raw.githubusercontent.com/Crystal-the-dev/Crystal-the-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
