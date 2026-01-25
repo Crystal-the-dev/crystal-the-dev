@@ -3,7 +3,11 @@
 </p>
 
 <hr>
-# PC SPECS
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=PC+SPECS" alt="Typing SVG">
+</p>
+
 
 ![CPU](https://img.shields.io/badge/CPU-AMD64%20Family%2025%20Model%2033%20Stepping%202-36BCF7?style=for-the-badge)
 ![GPU](https://img.shields.io/badge/GPU-RTX%204060-36BCF7?style=for-the-badge)
