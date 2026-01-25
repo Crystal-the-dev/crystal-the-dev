@@ -3,10 +3,14 @@
 </p>
 
 <hr>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=These are my current github page visits (added this on the 25/01/2026 and its been counting since 25/01/2026)" alt="Typing SVG">
+</p>
 <p align="center">
   <img src="https://count.getloli.com/@Crystal-the-dev?name=Crystal-the-dev&theme=sketch-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views">
 </p>
+
+<hr>
 
 <p align="center">
   <img src="./metrics.svg" alt="Metrics">
@@ -45,8 +49,3 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/Crystal-the-dev/Crystal-the-dev/output/github-snake-dark.svg" alt="Snake animation">
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Crystal-the-dev&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies">
-</p>
