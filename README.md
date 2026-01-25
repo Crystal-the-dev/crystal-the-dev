@@ -3,6 +3,14 @@
 </p>
 
 <hr>
+
+![CPU](https://img.shields.io/badge/CPU-AMD64%20Family%2025%20Model%2033%20Stepping%202-36BCF7?style=for-the-badge)
+![GPU](https://img.shields.io/badge/GPU-RTX%204060-36BCF7?style=for-the-badge)
+![RAM](https://img.shields.io/badge/RAM-32GB-36BCF7?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-Windows%2010-36BCF7?style=for-the-badge)
+![Storage](https://img.shields.io/badge/Storage-C%3A%20953GB%20%7C%20G%3A%2015GB-36BCF7?style=for-the-badge)
+
+<hr>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=These+are+my+current+github+page+visits;Added+this+on+the+25/01/2026;It's+been+counting+since+25/01/2026" alt="Typing SVG">
 </p>
