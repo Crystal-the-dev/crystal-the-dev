@@ -3,6 +3,7 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,10 +16,41 @@ jobs:
           filename: metrics.svg
           
           template: classic
-          base: header, activity, community, repositories, metadata
           
-          plugin_languages: yes
-          plugin_languages_colors: github
+          base: header, activity, community, repositories, metadata
+          base_indepth: no
+          base_hireable: no
+          
+          repositories_batch: 100
+          repositories_forks: no
+          repositories_affiliations: owner
+          
+          plugin_languages: no
           plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_languages_other: no
+          plugin_languages_colors: github
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: no
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_load: 300
+          plugin_languages_recent_days: 14
+          
+          plugin_people: no
+          plugin_people_limit: 24
+          plugin_people_identicons: no
+          plugin_people_identicons_hide: no
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_people_shuffle: no
+          
+          plugin_repositories: no
+          plugin_repositories_pinned: 0
+          plugin_repositories_starred: 0
+          plugin_repositories_random: 0
+          plugin_repositories_order: featured, pinned, starred, random
           
           config_timezone: Europe/Berlin
