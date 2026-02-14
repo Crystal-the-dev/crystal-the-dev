@@ -21,7 +21,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=My+music+taste;Spotify+%F0%9F%8E%B6" alt="Typing SVG">
 </p>
 
-[![My Favourite Songs](https://img.shields.io/badge/My%20Favourite%20Songs-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/74uHIwMXxDSGQMAcP2x9Dh)
+<p align="center">
+  <a href="https://open.spotify.com/playlist/74uHIwMXxDSGQMAcP2x9Dh">
+    <img src="https://img.shields.io/badge/My%20Favourite%20Songs-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="My Favourite Songs">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=I+do+not+support+ICE+even+if+it+seems+like+it+due+to+the+song+THATS+THE+AMERICAN+WAY" alt="Typing SVG">
