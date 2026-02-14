@@ -16,6 +16,18 @@
 ![Storage](https://img.shields.io/badge/Storage-C%3A%20953GB%20%7C%20G%3A%2015GB-36BCF7?style=for-the-badge)
 
 <hr>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=My+music+taste;Spotify+%F0%9F%8E%B6" alt="Typing SVG">
+</p>
+
+[![My Favourite Songs](https://img.shields.io/badge/My%20Favourite%20Songs-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/74uHIwMXxDSGQMAcP2x9Dh)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=I+do+not+support+ICE+even+if+it+seems+like+it+due+to+the+song+THATS+THE+AMERICAN+WAY" alt="Typing SVG">
+</p>
+
+<hr>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=These+are+my+current+github+page+visits;Added+this+on+the+25/01/2026;It's+been+counting+since+25/01/2026" alt="Typing SVG">
 </p>
