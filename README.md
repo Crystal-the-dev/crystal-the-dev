@@ -28,7 +28,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=I+do+not+support+ICE+even+if+it+seems+like+it+due+to+the+song+THATS+THE+AMERICAN+WAY" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=I+do+not+support+ICE+even+if+it+seems+like+it+due+to+the+song" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=THATS+THE+AMERICAN+WAY" alt="Typing SVG">
 </p>
 
 <hr>
