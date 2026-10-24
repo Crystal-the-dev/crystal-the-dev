@@ -16,6 +16,4 @@
 
 <a href="https://github.com/Crystal-the-dev?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="All repositories"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Crystal-the-dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Github Profile"></picture></a>
 
-<a href="https://metawka.github.io/expressive-profile/?from=Crystal-the-dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
-
 </div>
