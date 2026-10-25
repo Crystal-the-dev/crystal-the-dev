@@ -1,13 +1,13 @@
 {
- "key": "444c30de",
+ "key": "19302a07",
  "stars": 1,
- "contributions": 121,
- "repos": 7,
+ "contributions": 124,
+ "repos": 8,
  "followers": 3,
  "languages": [
   [
    "JavaScript",
-   4171
+   138888
   ],
   [
    "CSS",
@@ -91,7 +91,7 @@
   ],
   [
    {
-    "c": 1,
+    "c": 4,
     "day": 25,
     "today": true
    },
@@ -116,6 +116,15 @@
    "fork": false,
    "stars": 1,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "AntiAlt",
+   "url": "https://github.com/Crystal-the-dev/AntiAlt",
+   "text": "AntiAlt is an Yapin.gg bot that blocks alt accounts from entering your Yapin' server!",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
    "topics": []
   },
   {
