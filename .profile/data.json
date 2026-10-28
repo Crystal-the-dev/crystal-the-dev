@@ -1,5 +1,5 @@
 {
- "key": "40c427fa",
+ "key": "fa6268e4",
  "stars": 1,
  "contributions": 129,
  "repos": 8,
@@ -103,16 +103,20 @@
    {
     "c": 0,
     "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 5,
+  "current": 0,
   "longest": 5
  },
  "pins": [],
